@@ -1,6 +1,7 @@
 ---
 layout: post
 title: NetworkManager 1.2 and DNS
+tags: [networkmanager, fedora]
 ---
 
  NetworkManager 1.2 was [recently released] [1] after more than a year
